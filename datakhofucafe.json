@@ -5,6 +5,10 @@
       {
         "alasan": "gas",
         "nominal": 98000
+      },
+      {
+        "alasan": "galon",
+        "nominal": 12000
       }
     ],
     "tanggal": "2025-05-27"
