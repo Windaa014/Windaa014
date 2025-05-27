@@ -1,16 +1,1 @@
-{
-  "2025-05-27": {
-    "pemasukan": 780000,
-    "pengeluaran": [
-      {
-        "alasan": "gas",
-        "nominal": 98000
-      },
-      {
-        "alasan": "galon",
-        "nominal": 12000
-      }
-    ],
-    "tanggal": "2025-05-27"
-  }
-}
+{}
