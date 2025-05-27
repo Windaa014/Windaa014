@@ -1,7 +1,12 @@
 {
   "2025-05-27": {
     "pemasukan": 119000,
-    "pengeluaran": [],
+    "pengeluaran": [
+      {
+        "alasan": "sosis",
+        "nominal": 29000
+      }
+    ],
     "tanggal": "2025-05-27"
   }
 }
