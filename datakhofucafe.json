@@ -11,7 +11,12 @@
   },
   "2025-06-09": {
     "pemasukan": 173000,
-    "pengeluaran": [],
+    "pengeluaran": [
+      {
+        "alasan": "esbatu",
+        "nominal": 15000
+      }
+    ],
     "tanggal": "2025-06-09"
   }
 }
