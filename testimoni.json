@@ -1,14 +1,62 @@
 [
   {
     "id": 1,
-    "nama": "Andi",
-    "foto": "https://i.ibb.co/xxxx/avatar1.jpg",
-    "text": "Layanan Kokopay mantap banget!"
+    "category": "topup",
+    "foto": "https://via.placeholder.com/300x533?text=Topup+1",
+    "text": "Topup Diamond FF berhasil, cepat & aman!"
   },
   {
     "id": 2,
-    "nama": "Siti",
-    "foto": "https://i.ibb.co/xxxx/avatar2.jpg",
-    "text": "Cepat dan terpercaya."
+    "category": "topup",
+    "foto": "https://via.placeholder.com/300x533?text=Topup+2",
+    "text": "Diamond ML masuk semua, recommended!"
+  },
+  {
+    "id": 3,
+    "category": "sewa",
+    "foto": "https://via.placeholder.com/300x533?text=Sewa+1",
+    "text": "Sewa akun FF lancar, puas banget!"
+  },
+  {
+    "id": 4,
+    "category": "sewa",
+    "foto": "https://via.placeholder.com/300x533?text=Sewa+2",
+    "text": "Sewa akun ML gampang & cepat, mantap!"
+  },
+  {
+    "id": 5,
+    "category": "jual",
+    "foto": "https://via.placeholder.com/300x533?text=Jual+1",
+    "text": "Beli akun FF sesuai deskripsi, sangat memuaskan."
+  },
+  {
+    "id": 6,
+    "category": "jual",
+    "foto": "https://via.placeholder.com/300x533?text=Jual+2",
+    "text": "Transaksi jual beli akun ML sukses, recommended!"
+  },
+  {
+    "id": 7,
+    "category": "topup",
+    "foto": "https://via.placeholder.com/300x533?text=Topup+3",
+    "text": "Topup cepat, diamond masuk semua."
+  },
+  {
+    "id": 8,
+    "category": "sewa",
+    "foto": "https://via.placeholder.com/300x533?text=Sewa+3",
+    "text": "Sewa akun FF top banget, tidak mengecewakan!"
+  },
+  {
+    "id": 9,
+    "category": "jual",
+    "foto": "https://via.placeholder.com/300x533?text=Jual+3",
+    "text": "Beli akun ML sesuai ekspektasi, puas!"
+  },
+  {
+    "id": 10,
+    "category": "topup",
+    "foto": "https://via.placeholder.com/300x533?text=Topup+4",
+    "text": "Topup diamond ML masuk semua, recommended."
   }
 ]
