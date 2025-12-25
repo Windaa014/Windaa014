@@ -1,66 +1,6 @@
 [
   {
     "id": 1,
-    "kategori": "topup",
-    "foto": "https://i.ibb.co/7p8X3Hk/topup1.jpg",
-    "deskripsi": "Beli diamond FF cepat & aman!"
-  },
-  {
-    "id": 2,
-    "kategori": "topup",
-    "foto": "https://i.ibb.co/WszZkFv/topup2.jpg",
-    "deskripsi": "Topup ML gampang banget."
-  },
-  {
-    "id": 3,
-    "kategori": "sewa",
-    "foto": "https://i.ibb.co/4Nq1wJX/sewa1.jpg",
-    "deskripsi": "Sewa akun FF lancar tanpa ribet."
-  },
-  {
-    "id": 4,
-    "kategori": "sewa",
-    "foto": "https://i.ibb.co/WszZkFv/sewa2.jpg",
-    "deskripsi": "Akun ML tersedia semua tier."
-  },
-  {
-    "id": 5,
-    "kategori": "jualbeli",
-    "foto": "https://i.ibb.co/7p8X3Hk/jual1.jpg",
-    "deskripsi": "Jual beli akun FF cepat & aman."
-  },
-  {
-    "id": 6,
-    "kategori": "jualbeli",
-    "foto": "https://i.ibb.co/4Nq1wJX/jual2.jpg",
-    "deskripsi": "Pembelian akun ML sukses."
-  },
-  {
-    "id": 7,
-    "kategori": "topup",
-    "foto": "https://i.ibb.co/WszZkFv/topup3.jpg",
-    "deskripsi": "Diamond ML langsung masuk."
-  },
-  {
-    "id": 8,
-    "kategori": "sewa",
-    "foto": "https://i.ibb.co/7p8X3Hk/sewa3.jpg",
-    "deskripsi": "Sewa akun FF lancar."
-  },
-  {
-    "id": 9,
-    "kategori": "jualbeli",
-    "foto": "https://i.ibb.co/4Nq1wJX/jual3.jpg",
-    "deskripsi": "Transaksi akun ML aman."
-  },
-  {
-    "id": 10,
-    "kategori": "topup",
-    "foto": "https://i.ibb.co/7p8X3Hk/topup4.jpg",
-    "deskripsi": "Topup diamond cepat tanpa delay."
-  },
-  {
-    "id": 11,
     "kategori": "jualbeli",
     "foto": "https://files.catbox.moe/z3zl9b.jpg",
     "deskripsi": "BELI AKUN SISTEM DP✅"
